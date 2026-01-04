@@ -1,0 +1,13 @@
+#container{
+    border: 2px solid black;
+}
+
+#container > p{
+    background-color: red;
+}
+
+#container ~ p{
+    background-color: lightblue;
+}
+#container + p{
+    text-decoration: line-through;
