@@ -21,6 +21,6 @@ p::selection{
 
 #fruit li::marker{
     color: rgb(145, 179, 68);
-    content:"✔️";
+    content:"✓";
     font-size: 1.2em;
 }
